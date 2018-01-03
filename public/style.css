@@ -103,3 +103,13 @@ body {
 .clear-cart {
   width: 100%;
 }
+
+.list-of-items {
+  list-style-type: none;
+ 
+}
+
+.list-of-items li{
+position: relative;
+right: 40px;
+}
